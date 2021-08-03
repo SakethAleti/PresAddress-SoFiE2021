@@ -1,0 +1,31 @@
+# Data files
+data/temp
+data/proc/clean_prices
+data/proc/all_hf*
+
+# Latex temporary
+*.aux
+*.log
+*.gz
+*.out
+*.tex
+
+# Dask
+*dask-worker-space
+
+# NotebookFiles
+*.ipynb_checkpoints
+
+# Python
+*__pycache__
+
+# Word temporary
+~$*.doc*
+~*.tmp
+
+# PPTs
+*.pptx
+*.pdf
+
+# Zips
+*.zip
