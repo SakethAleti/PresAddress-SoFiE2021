@@ -1,4 +1,4 @@
-Code for the paper "**[Realized Semi(co)variation: Signs That All Volatilities are Not Created Equal](https://academic.oup.com/jfec/advance-article-abstract/doi/10.1093/jjfinec/nbab025/6432504)**" by Tim Bollerslev - Presidential address presented at the Fourteenth Annual Society for Financial Econometrics Conference, University of California, San Diego, June 2021. 
+Code for the paper "**[Realized Semi(Co)Variation: Signs that All Volatilities are Not Created Equal](https://academic.oup.com/jfec/advance-article-abstract/doi/10.1093/jjfinec/nbab025/6432504)**" by Tim Bollerslev - Journal of Financial Econometrics, Volume 20, Issue 2, Spring 2022, Pages 219–252 
 
 # Code Description
 
