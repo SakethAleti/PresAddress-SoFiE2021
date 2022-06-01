@@ -1,4 +1,4 @@
-Code for the paper "**[Realized Semi(Co)Variation: Signs that All Volatilities are Not Created Equal](https://academic.oup.com/jfec/advance-article-abstract/doi/10.1093/jjfinec/nbab025/6432504)**" by Tim Bollerslev - Journal of Financial Econometrics, Volume 20, Issue 2, Spring 2022, Pages 219–252 
+Bollerslev, T. (2022). **[Realized semi (co) variation: Signs that all volatilities are not created equal](http://public.econ.duke.edu/~boller/Papers/SemiVar.pdf)**. Journal of Financial Econometrics, 20(2), 219-252.
 
 # Code Description
 
